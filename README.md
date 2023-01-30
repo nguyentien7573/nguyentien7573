@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **nguyentien7573@gmail.com**
 
-- 📄 Know about my experiences [6 year with .NET](6 year with .NET)
+- 📄 Know about my experiences 6 year with .NET
 
 - ⚡ Fun fact **Trust me I'm funny**
 
