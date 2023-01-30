@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Titan](https://www.titancorpvn.com/)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **C#**,**ReactJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/nguyentien7573](https://github.com/nguyentien7573)
 
